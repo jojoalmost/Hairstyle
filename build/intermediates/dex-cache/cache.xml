@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\pre-dexed\debug\classes-56a396fdf69db2b1d5ee7f869f9947f0d76fb78a.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\pre-dexed\debug\library-2.4.0-c381e096a4a3279073b5cf49014e9da1dd1163f3.jar" />
+    </item>
+    <item
+        jar="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\pre-dexed\debug\classes-d245f86cc433eef608bdfa08be94d30795ea1a43.jar" />
+    </item>
+    <item
+        jar="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c046c952177602c858ed41c8fc492c939bde9aa">
+        <dex dex="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\pre-dexed\debug\classes-f4754f0562ae40bdbbd1bff3ccff52f827b432df.jar" />
+    </item>
+    <item
+        jar="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\pre-dexed\debug\classes-9ee41a23f2e04d3a4e6994930b17cfe36b19dcff.jar" />
+    </item>
+    <item
+        jar="D:\DeveloperAndroid\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-3208306e21039a73c3af0b4a9a0e0b665f593685.jar" />
+    </item>
+    <item
+        jar="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\pre-dexed\debug\classes-6ff19126b1f490acbd346a58eaad290e9f1414eb.jar" />
+    </item>
+    <item
+        jar="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-4cec9e1f4856fe48d5944c063e08e93bf24d9c10.jar" />
+    </item>
+    <item
+        jar="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0c456a59e1edab84702b48a626705aa1d830ccc">
+        <dex dex="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-a3088fe1c1965414b7e6601991ba4b3da5dadd9f.jar" />
+    </item>
+    <item
+        jar="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="D:\Developer\Android\Project\Hairstyle\app\build\intermediates\pre-dexed\debug\classes-71b648da05105ca47a60834ac433efcb51bbe64c.jar" />
+    </item>
+
+</items>
