@@ -1,6 +1,8 @@
 # Built application files
 /*/build/
-
+/*/captures/
+/build
+/captures
 # Crashlytics configuations
 com_crashlytics_export_strings.xml
 
@@ -26,6 +28,8 @@ local.properties
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
 *.iml
+*.iws
+*.ipr
 
 # OS-specific files
 .DS_Store
@@ -35,3 +39,7 @@ local.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+*~
+*.swp
